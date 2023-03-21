@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Installation": {
-    "message": "Installation",
+    "message": "Instalação",
     "description": "The label for category Installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Beginner's guide": {
@@ -12,7 +12,7 @@
     "description": "The label for category Beginner's guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Configuration": {
-    "message": "Configuration",
+    "message": "Configuração",
     "description": "The label for category Configuration in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Plugins": {
@@ -20,7 +20,7 @@
     "description": "The label for category Plugins in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Appearance": {
-    "message": "Appearance",
+    "message": "Aparência",
     "description": "The label for category Appearance in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Language features": {
@@ -32,7 +32,7 @@
     "description": "The label for category Features in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Supported frameworks": {
-    "message": "Supported frameworks",
+    "message": "Frameworks suportados",
     "description": "The label for category Supported frameworks in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Supported languages": {
@@ -40,7 +40,7 @@
     "description": "The label for category Supported languages in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community": {
-    "message": "Community",
+    "message": "Comunidade",
     "description": "The label for category Community in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For Developers": {
